@@ -87,7 +87,6 @@ Future updates to the SDK will support more recent LTS versions of node as Const
 **Before** installing and running the SDK code, refer to [Downloading the Constellation SDK files](https://docs.pega.com/bundle/constellation-sdk/page/constellation-sdks/sdks/installing-constellation-sdks.html) for steps to prepare your Infinity server and node environment so you can proceed with the steps in the next section.
 
 <br>
-
 ---
 
 # Installing and Running the Application
